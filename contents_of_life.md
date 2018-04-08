@@ -21,7 +21,7 @@
 
 ### Business 101
 
-#### For new oppotunities in Samsung
+### For new oppotunities in Samsung
 
 - C# GUI
 
@@ -35,3 +35,4 @@
 - Keep Room in Order
 - Read
 - Meditate
+- Keep Fit/ Working out/ Exercies/ Badminton
