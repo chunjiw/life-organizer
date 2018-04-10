@@ -36,3 +36,4 @@
 - Read
 - Meditate
 - Keep Fit/ Working out/ Exercies/ Badminton
+- Personal Finance/ Investment
