@@ -31,9 +31,9 @@
 
 - Eat Well
 - Sleep Well
-- Take Shower Every Day
+- Take a Shower Everyday
 - Keep Room in Order
 - Read
-- Meditate
+- Meditate Everyday
 - Keep Fit/ Working out/ Exercies/ Badminton
 - Personal Finance/ Investment
